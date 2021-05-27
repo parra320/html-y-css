@@ -1,0 +1,34 @@
+/* "*" selector universal */
+
+/*
+* {
+  font-size: 30px;
+}
+*/
+
+a {
+  color: royalblue;
+  font-size: 15px;
+}
+pre {
+  color: chocolate;
+}
+
+/* id */
+#esid {
+  color: violet;
+}
+
+/* class */
+.green {
+  color: green;
+}
+
+/* agrupacion */
+h2 {
+  color: brown;
+}
+
+h2.diferente {
+  color: black;
+}

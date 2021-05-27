@@ -1,0 +1,11 @@
+.pixel {
+  background-color: aqua;
+  width: 200px;
+  font-size: 30px;
+}
+
+.porcentaje {
+  background-color: red;
+  width: 25%;
+  font-size: 30px;
+}

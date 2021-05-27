@@ -1,0 +1,14 @@
+p {
+  border-style: solid;
+  /* valor de los 4 lados del borde */
+  /* border-width: 5px; */
+
+  /* valor separado: superior, lados, inferior */
+  border-width: 2px 4px 6px;
+
+  border-color: brown;
+}
+
+.borde {
+  border: 5px solid royalblue;
+}

@@ -1,0 +1,23 @@
+/* fondo de color */
+
+/* body {
+  background-color: rgba(255, 255, 255, 0.76);
+} */
+
+/* fondo con una imagen */
+
+body {
+  background-image: url("/img/circle-blues.png");
+
+  /* no repetir la imagen */
+  background-repeat: no-repeat;
+
+  /* repetir horizontalmente */
+  /* background-repeat: repeat-x; */
+
+  /* repetir verticalmente */
+  /* background-repeat: repeat-y; */
+
+  /* posicionar la imagen en la pantalla */
+  background-position: right top;
+}

@@ -1,0 +1,32 @@
+/* reiniciar todos los margenes */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: black;
+  /* distancia desde la parte superior */
+  margin-top: 50px;
+
+  /* distancia de la parte inferior */
+  margin-bottom: 30px;
+
+  /* distancia desde la izquierda */
+  margin-left: 40px;
+
+  width: 120px;
+}
+
+.blanco {
+  color: white;
+  margin-left: 30px;
+}
+
+.centro {
+  background-color: aqua;
+  width: 20%;
+
+  /* centrar texto */
+  margin: 0 auto;
+}
